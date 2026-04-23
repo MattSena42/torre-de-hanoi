@@ -29,3 +29,10 @@
 1. Clone o repositório:
    ```bash
    git clone https://github.com/MattSena42/torre-de-hanoi.git
+
+---
+
+## 👨‍💻 Autor
+
+Feito por **Matheus Sena**
+[🔗 GitHub](https://github.com/MattSena42) | [🔗 LinkedIn](https://www.linkedin.com/in/matheus-sena/)
