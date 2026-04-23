@@ -1,6 +1,13 @@
 # 📁 Torre de Hanói em React
 
-> Um jogo interativo do clássico quebra-cabeça matemático Torre de Hanói, construído com React. O projeto inclui desde a jogabilidade manual com validação de regras até a resolução automática guiada por um algoritmo recursivo invisível.
+> Um jogo web da Torre de Hanói construído com React e focado em lógica de programação. A aplicação combina uma interface responsiva com um algoritmo recursivo capaz de resolver o desafio automaticamente. Desenvolvido como projeto prático do curso técnico em Desenvolvimento de Sistemas.
+
+---
+
+## 📸 Demonstração
+
+O projeto está hospedado e disponível para jogar online através do GitHub Pages!  
+🔗 **[Jogue aqui a Torre de Hanói](https://MattSena42.github.io/torre-de-hanoi/)**
 
 ---
 
@@ -28,11 +35,41 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/MattSena42/torre-de-hanoi.git
+   git clone [https://github.com/MattSena42/torre-de-hanoi.git](https://github.com/MattSena42/torre-de-hanoi.git)
+   ```
+
+2. Acesse a pasta do projeto:
+   ```bash
+   cd torre-de-hanoi
+   ```
+
+3. Instale as dependências necessárias:
+   ```bash
+   npm install
+   ```
+
+4. Inicie o servidor de desenvolvimento:
+   ```bash
+   npm run dev
+   ```
+
+5. O terminal exibirá um link local (geralmente `http://localhost:5173/`). Acesse-o no seu navegador.
+
+---
+
+## 🤝 Contribuições
+
+Contribuições são bem-vindas!  
+Sinta-se livre para abrir uma *issue* ou enviar um *pull request*.
+
+---
+
+## 📝 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
 ## 👨‍💻 Autor
 
-Feito por **Matheus Sena**
-[🔗 GitHub](https://github.com/MattSena42) | [🔗 LinkedIn](https://www.linkedin.com/in/matheus-sena/)
+Feito por **Matheus Sena** [🔗 GitHub](https://github.com/MattSena42) | [🔗 LinkedIn](https://www.linkedin.com/in/matheus-sena/)
