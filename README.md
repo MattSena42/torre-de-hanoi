@@ -35,7 +35,7 @@ O projeto está hospedado e disponível para jogar online através do GitHub Pag
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/MattSena42/torre-de-hanoi.git](https://github.com/MattSena42/torre-de-hanoi.git)
+   git clone https://github.com/MattSena42/torre-de-hanoi.git
    ```
 
 2. Acesse a pasta do projeto:
