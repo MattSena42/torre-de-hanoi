@@ -28,4 +28,4 @@
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/MattSena42/torre-de-hanoi.git](https://github.com/MattSena42/torre-de-hanoi.git)
+   git clone https://github.com/MattSena42/torre-de-hanoi.git
