@@ -1,16 +1,31 @@
-# React + Vite
+# 📁 Torre de Hanói em React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Um jogo interativo do clássico quebra-cabeça matemático Torre de Hanói, construído com React. O projeto inclui desde a jogabilidade manual com validação de regras até a resolução automática guiada por um algoritmo recursivo invisível.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📌 Funcionalidades
 
-## React Compiler
+- ✅ **Jogabilidade Manual:** Clique e mova os discos com validação rigorosa de regras (impede colocar discos maiores sobre menores).
+- ✅ **Resolução Automática:** Um algoritmo recursivo resolve o jogo sozinho a partir da posição inicial, mostrando os passos em tempo real.
+- ✅ **Desfazer Jogada (Undo):** Sistema de histórico que permite voltar movimentos a qualquer momento.
+- ✅ **Feed de Movimentos:** Registro lateral de cada passo dado, destacando em vermelho as jogadas feitas automaticamente.
+- ✅ **Níveis de Dificuldade:** Opção para alterar a quantidade de discos de 3 a 8 dinamicamente.
+- ✅ **Design "Dark Mode":** Interface elegante inspirada nas cores do VS Code, utilizando tipografia tecnológica (Orbitron e Saira Semi Condensed).
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tecnologias utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js (com uso de Hooks: `useState`, `useEffect`, `useRef`)
+- Vite
+- JavaScript (ES6+)
+- CSS3 (Estilização inline e Google Fonts)
+
+---
+
+## 💻 Como rodar o projeto localmente
+
+1. Clone o repositório:
+   ```bash
+   git clone [https://github.com/MattSena42/torre-de-hanoi.git](https://github.com/MattSena42/torre-de-hanoi.git)
