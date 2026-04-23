@@ -7,7 +7,7 @@
 ## 📸 Demonstração
 
 O projeto está hospedado e disponível para jogar online através do GitHub Pages!  
-🔗 **[Jogue aqui a Torre de Hanói](https://MattSena42.github.io/torre-de-hanoi/)**
+🔗 **[Clique aqui para jogar!](https://MattSena42.github.io/torre-de-hanoi/)**
 
 ---
 
