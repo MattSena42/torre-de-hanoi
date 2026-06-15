@@ -1,6 +1,6 @@
 # 📁 Torre de Hanói em React
 
-> Um jogo web da Torre de Hanói construído com React e focado em lógica de programação. A aplicação combina uma interface responsiva com um algoritmo recursivo capaz de resolver o desafio automaticamente. Desenvolvido como projeto prático do curso técnico em Desenvolvimento de Sistemas.
+> Um jogo web da Torre de Hanói construído com React e focado em lógica de programação. A aplicação combina uma interface responsiva com um algoritmo recursivo capaz de resolver o desafio automaticamente.
 
 ---
 
